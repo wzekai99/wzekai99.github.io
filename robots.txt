@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wzekai99.github.io/sitemap.xml
+Sitemap: https://zekai.site/sitemap.xml
