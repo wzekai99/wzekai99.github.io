@@ -601,10 +601,11 @@ footer.sticky-bottom {
   font-weight: bolder;
 }
 .publications ol.bibliography li .author a {
-  border-bottom: 1px dashed var(--global-theme-color);
+  color: black;
+  border-bottom: 1px;
 }
 .publications ol.bibliography li .author a:hover {
-  border-bottom-style: solid;
+  border-bottom-style: dashed;
   text-decoration: none;
 }
 .publications ol.bibliography li .author > em {
