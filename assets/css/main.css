@@ -600,8 +600,11 @@ footer.sticky-bottom {
 .publications ol.bibliography li .title {
   font-weight: bolder;
 }
+.publications ol.bibliography li .title a {
+  color: var(--global-text-color);
+}
 .publications ol.bibliography li .author a {
-  color: black;
+  color: var(--global-text-color);
   border-bottom: 1px;
 }
 .publications ol.bibliography li .author a:hover {
