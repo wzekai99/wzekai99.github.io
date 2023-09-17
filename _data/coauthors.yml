@@ -1,11 +1,19 @@
-# "Liu":
-#   - firstname: ["Weiwei"]
-#     url: https://sites.google.com/site/weiweiliuhomepage
+"Liu":
+  - firstname: ["Weiwei"]
+    url: https://sites.google.com/site/weiweiliuhomepage
 
-# "Pang":
-#   - firstname: ["Tianyu"]
-#     url: https://p2333.github.io
+"Pang":
+  - firstname: ["Tianyu"]
+    url: https://p2333.github.io
 
-# "Du":
-#   - firstname: ["Chao"]
-#     url: https://p2333.github.io
+"Du":
+  - firstname: ["Chao"]
+    url: https://duchao0726.github.io
+
+"Yan":
+  - firstname: ["Shuicheng"]
+    url: https://yanshuicheng.info
+
+"Lin":
+  - firstname: ["Min"]
+    url: https://linmin.me
