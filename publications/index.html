@@ -128,7 +128,8 @@
             <!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2023</h2>
-  <ol class="bibliography"><li>
+  <ol class="bibliography">
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge">ICML’23</abbr></div>
@@ -182,7 +183,60 @@
           </div>
         </div>
       </div>
-</li></ol>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">TKDE</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="mao2022task" class="col-sm-8">
+        <!-- Title --><div class="title">Task Variance Regularized Multi-Task Learning</div>
+<!-- Author -->
+        <div class="author">
+        
+
+        Yuren Mao, <strong><u>Zekai Wang</u></strong>, <a href="https://sites.google.com/site/weiweiliuhomepage" rel="external nofollow noopener" target="_blank">Weiwei Liu</a>, Xuemin Lin, and Wenbin Hu</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>IEEE Transactions on Knowledge and Data Engineering</em>, 2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+<!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://ieeexplore.ieee.org/abstract/document/9893398" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Paper</a>
+          </div>
+          
+          <div class="badges">
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Multi-task Learning (MTL), which involves the simultaneous learning of multiple tasks, can achieve better performance than learning each task independently. It has achieved great success in various applications, ranging from Computer Vision (CV) to Natural Language Processing (NLP). In MTL, the losses of the including tasks are jointly optimized. However, it is common for these tasks to be competing. When the tasks are competing, minimizing the losses of some tasks increases the losses of others, which accordingly increases the task variance (variance between the task-specific loss); furthermore, it induces under-fitting in some tasks and over-fitting in others, which degenerates the generalization performance of an MTL model. To address this issue, it is necessary to control the task variance; thus, task variance regularization is a natural choice. While intuitive, task variance regularization remains unexplored in MTL. Accordingly, to fill this gap, we study the generalization error bound of MTL through the lens of task variance and propose the task variance matters the generalization performance of MTL. Furthermore, this paper investigates how the task variance might be effectively regularized, and consequently proposes a multi-task learning method based on adversarial multi-armed bandit. The proposed method, dubbed BanditMTL, regularizes the task variance by means of a mirror gradient ascent-descent algorithm. Adopting BanditMTL both in CV and NLP applications is found to achieve state-of-the-art performance. The results of extensive experiments back up our theoretical analysis and validate the superiority of our proposals.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">mao2022task</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Task Variance Regularized Multi-Task Learning}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Mao, Yuren and Wang, Zekai and Liu, Weiwei and Lin, Xuemin and Hu, Wenbin}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE Transactions on Knowledge and Data Engineering}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{35}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{8}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{8615-8629}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+</ol>
 
   <h2 class="year">2022</h2>
   <ol class="bibliography">
@@ -299,55 +353,6 @@
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">TKDE</abbr></div>
-
-        <!-- Entry bib key -->
-        <div id="mao2022task" class="col-sm-8">
-        <!-- Title --><div class="title">Task Variance Regularized Multi-Task Learning</div>
-<!-- Author -->
-        <div class="author">
-        
-
-        Yuren Mao, <strong><u>Zekai Wang</u></strong>, <a href="https://sites.google.com/site/weiweiliuhomepage" rel="external nofollow noopener" target="_blank">Weiwei Liu</a>, Xuemin Lin, and Wenbin Hu</div>
-
-        <!-- Journal/Book title and date -->
-        
-        
-        <div class="periodical">
-          <em>IEEE Transactions on Knowledge and Data Engineering</em>, 2022
-        </div>
-        <div class="periodical">
-          
-        </div>
-<!-- Links/Buttons -->
-          <div class="links">
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="https://ieeexplore.ieee.org/abstract/document/9893398" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Paper</a>
-          </div>
-          
-          <div class="badges">
-          </div>
-
-          <!-- Hidden abstract block -->
-          <div class="abstract hidden">
-            <p>Multi-task Learning (MTL), which involves the simultaneous learning of multiple tasks, can achieve better performance than learning each task independently. It has achieved great success in various applications, ranging from Computer Vision (CV) to Natural Language Processing (NLP). In MTL, the losses of the including tasks are jointly optimized. However, it is common for these tasks to be competing. When the tasks are competing, minimizing the losses of some tasks increases the losses of others, which accordingly increases the task variance (variance between the task-specific loss); furthermore, it induces under-fitting in some tasks and over-fitting in others, which degenerates the generalization performance of an MTL model. To address this issue, it is necessary to control the task variance; thus, task variance regularization is a natural choice. While intuitive, task variance regularization remains unexplored in MTL. Accordingly, to fill this gap, we study the generalization error bound of MTL through the lens of task variance and propose the task variance matters the generalization performance of MTL. Furthermore, this paper investigates how the task variance might be effectively regularized, and consequently proposes a multi-task learning method based on adversarial multi-armed bandit. The proposed method, dubbed BanditMTL, regularizes the task variance by means of a mirror gradient ascent-descent algorithm. Adopting BanditMTL both in CV and NLP applications is found to achieve state-of-the-art performance. The results of extensive experiments back up our theoretical analysis and validate the superiority of our proposals.</p>
-          </div>
-<!-- Hidden bibtex block -->
-          <div class="bibtex hidden">
-            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">mao2022task</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{Task Variance Regularized Multi-Task Learning}</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{Mao, Yuren and Wang, Zekai and Liu, Weiwei and Lin, Xuemin and Hu, Wenbin}</span><span class="p">,</span>
-  <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE Transactions on Knowledge and Data Engineering}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span>
-<span class="p">}</span></code></pre></figure>
-          </div>
-        </div>
-      </div>
-</li>
-<li>
-<!-- _layouts/bib.html -->
-      <div class="row">
         <div class="col-sm-2 abbr">
 <abbr class="badge">ACL’22</abbr><abbr class="badge badge-light">Findings</abbr>
 </div>
@@ -423,7 +428,7 @@
         <div class="periodical">
           
         </div>
-<!-- Links/Buttons -->
+<span style="color: var(--global-theme-color); font-weight: bolder">Accepted by ICML’22</span><!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
             <a href="https://www.ml-verification.com/2022/accepted-papers" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
@@ -611,7 +616,7 @@
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2023 Zekai  Wang. Last updated: October 02, 2023.
+        © Copyright 2023 Zekai  Wang. Last updated: October 10, 2023.
       </div>
     </footer>
 
