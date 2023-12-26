@@ -22,7 +22,7 @@ I am an M.S. student in the School of Computer Science at Wuhan University, advi
 
 My research primarily revolves around machine learning, specifically emphasizing trustworthy machine learning and multi-task learning.
 
-- **Certified Robustness:** JMLR, AAAI'24, [ICML'22](https://proceedings.mlr.press/v162/wang22q.html)
-- **Empirical Robustness:** [ICML'23](https://proceedings.mlr.press/v202/wang23ad.html), [NeurIPS'22](https://papers.nips.cc/paper_files/paper/2022/hash/a80ebbb4ec9e9b39789318a0a61e2e43-Abstract-Conference.html)
-- **Multi-task Learning:** [TKDE](https://ieeexplore.ieee.org/abstract/document/9893398), [ACL findings'22](https://aclanthology.org/2022.findings-acl.271), [ACL'21](https://aclanthology.org/2021.acl-long.428)
+- **Certified robustness:** JMLR, AAAI'24, [ICML'22](https://proceedings.mlr.press/v162/wang22q.html)
+- **Empirical robustness:** [ICML'23](https://proceedings.mlr.press/v202/wang23ad.html), [NeurIPS'22](https://papers.nips.cc/paper_files/paper/2022/hash/a80ebbb4ec9e9b39789318a0a61e2e43-Abstract-Conference.html)
+- **Multi-task learning:** [TKDE](https://ieeexplore.ieee.org/abstract/document/9893398), [ACL findings'22](https://aclanthology.org/2022.findings-acl.271), [ACL'21](https://aclanthology.org/2021.acl-long.428)
 
