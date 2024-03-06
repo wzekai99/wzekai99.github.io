@@ -1,24 +1,8 @@
 ---
 ---
 
-@article{wang2024rvcl,
-  bibtex_show={true},
-  selected={true},
-  abbr={JMLR},
-  pdf={RVCL_JMLR.pdf},
-  pdff={https://zekai.site/assets/pdf/RVCL_JMLR.pdf},
-  abstract={Contrastive adversarial training has successfully improved the robustness of contrastive learning (CL). However, the robustness metric in these methods depends on attack algorithms, image labels, and downstream tasks, introducing reliability concerns. To address these issues, this paper proposes a novel Robustness Verification framework for Contrastive Learning (RVCL). Specifically, we define the verification problem of CL from deterministic and probabilistic perspectives, then provide several effective metrics to evaluate the robustness of CL encoder. Furthermore, we use extreme value theory to reveal the relationship between the robust radius of the CL encoder and that of the supervised downstream task. Extensive experiments on various benchmark models and datasets validate theoretical findings, and further demonstrate RVCL's capability to evaluate the robustness of both CL encoders and images.},
-
-  title={RVCL: Evaluating the Robustness of Contrastive Learning via Verification},
-  author={Wang, Zekai and Liu, Weiwei},
-  journal={Journal of Machine Learning Research},
-  year={2024}
-}
-
-
 @inproceedings{wang2024drf,
   bibtex_show={true},
-  selected={true},
   abbr={AAAI'24},
 
   abstract={Randomized smoothing (RS) provides state-of-the-art (SOTA) certified robustness against $L2$-perturbations for large neural networks. Among studies in this field, methods based on adversarial training (AT) achieve remarkably robust performance by applying adversarial examples to construct the smoothed classifier. These AT-based RS methods typically seek a pointwise adversary that generates the worst-case adversarial examples by perturbing each input independently. However, there are unexplored benefits to considering such adversarial robustness across the entire data distribution. To this end, we provide a novel framework called DRF, which connects AT-based RS methods with distributional robustness (DR), and show that these methods are special cases of their counterparts in our framework. Due to the advantages conferred by DR, our framework can control the trade-off between the clean accuracy and certified robustness of smoothed classifiers to a significant extent. Our experiments demonstrate that DRF can substantially improve the certified $L2$-robustness of AT-based RS.},
@@ -27,6 +11,24 @@
   author={Wang, Zekai and Zhou, Zhengyu and Liu, Weiwei},
   booktitle={AAAI Conference on Artificial Intelligence},
   year={2024}
+}
+
+@article{wang2023rvcl,
+  bibtex_show={true},
+  selected={true},
+  abbr={JMLR},
+  paper={http://jmlr.org/papers/v24/23-0668.html},
+  pdff={https://jmlr.org/papers/volume24/23-0668/23-0668.pdf},
+  code={https://github.com/wzekai99/RVCL-JMLR},
+  abstract={Contrastive adversarial training has successfully improved the robustness of contrastive learning (CL). However, the robustness metric in these methods depends on attack algorithms, image labels, and downstream tasks, introducing reliability concerns. To address these issues, this paper proposes a novel Robustness Verification framework for Contrastive Learning (RVCL). Specifically, we define the verification problem of CL from deterministic and probabilistic perspectives, then provide several effective metrics to evaluate the robustness of CL encoder. Furthermore, we use extreme value theory to reveal the relationship between the robust radius of the CL encoder and that of the supervised downstream task. Extensive experiments on various benchmark models and datasets validate theoretical findings, and further demonstrate RVCL's capability to evaluate the robustness of both CL encoders and images.},
+
+  title   = {RVCL: Evaluating the Robustness of Contrastive Learning via Verification},
+  author  = {Zekai Wang and Weiwei Liu},
+  journal = {Journal of Machine Learning Research},
+  year    = {2023},
+  volume  = {24},
+  number  = {396},
+  pages   = {1--43}
 }
 
 @inproceedings{wang2023better,
