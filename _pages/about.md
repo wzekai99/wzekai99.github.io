@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>王泽铠</strong>, Ph.D. Student at <a href='https://www.mit.edu'>Massachusetts Institute of Technology</a>
+subtitle: <strong>王泽铠</strong>, Ph.D. Student at <a href='https://www.mit.edu'>MIT</a>
 
 profile:
   align: right
