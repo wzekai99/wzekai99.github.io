@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>王泽铠</strong>, M.S. Student at <a href='https://en.whu.edu.cn'>Wuhan University</a>
+subtitle: <strong>王泽铠</strong>, Ph.D. Student at <a href='https://www.mit.edu'>MIT</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 
-I am an M.S. student in the School of Computer Science at Wuhan University, advised by Prof. [Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage). Before that, I received my B.S. degree in computer science from Wuhan University in 2021. I was a visiting student at the University of California, Berkeley from January 2020 to June 2020. I interned at Sea AI Lab, Singapore from September 2022 to June 2023. 
+I am an Ph.D student at [MIT EECS](https://www.eecs.mit.edu), advised by Prof. [Ashia Wilson](https://www.ashiawilson.com). Before that, I received my B.S. and M.S. degree in computer science from [Wuhan University](https://en.whu.edu.cn) in 2021 and 2024, advised by Prof. [Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage). I was a visiting student at the University of California, Berkeley from January 2020 to June 2020. I interned at Sea AI Lab, Singapore from September 2022 to June 2023. 
 
 My research primarily revolves around machine learning, specifically emphasizing trustworthy machine learning and multi-task learning.
 

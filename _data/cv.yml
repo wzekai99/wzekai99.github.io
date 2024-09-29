@@ -1,6 +1,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Computer Science
+      institution: Massachusetts Institute of Technology, USA
+      year: 2024 -
+      description:
+        - <strong>Supervisor:</strong> Prof. <a href="https://www.ashiawilson.com">Ashia Wilson</a>
+
     - title: M.S. in Computer Science
       institution: Graduating with Honor, Wuhan University, China
       year: 2021 - 2024
