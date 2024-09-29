@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 
-I am a Ph.D student at [MIT EECS](https://www.eecs.mit.edu), advised by Prof. [Ashia Wilson](https://www.ashiawilson.com). I am affiliated with [LIDS](https://lids.mit.edu). Before that, I received my B.S. and M.S. degree in computer science from [Wuhan University](https://en.whu.edu.cn) in 2021 and 2024, advised by Prof. [Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage). I was a visiting student at the University of California, Berkeley from January 2020 to June 2020. I interned at Sea AI Lab, Singapore from September 2022 to June 2023. 
+I am a Ph.D student at [MIT EECS](https://www.eecs.mit.edu), advised by Prof. [Ashia Wilson](https://www.ashiawilson.com). I am affiliated with [LIDS](https://lids.mit.edu). I received my bachelor’s and master’s degrees in computer science from [Wuhan University](https://en.whu.edu.cn) in 2021 and 2024, advised by Prof. [Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage). I was a visiting student at the University of California, Berkeley from January 2020 to June 2020. I interned at Sea AI Lab, Singapore from September 2022 to June 2023. 
 
 My research primarily revolves around machine learning, specifically emphasizing trustworthy machine learning and multi-task learning.
 
