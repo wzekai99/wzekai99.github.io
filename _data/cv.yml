@@ -1,7 +1,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Computer Science
+    - title: Ph.D. Student in Computer Science
       institution: Massachusetts Institute of Technology, US
       year: 2024 -
       description:
@@ -47,6 +47,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - "Outstanding Graduate, School of Computer Science &#38; Wuhan University"
     - year: 2023
       items: 
         - China National Scholarship
