@@ -8,7 +8,7 @@ middle_name:
 last_name: Wang
 email: wzekai99@gmail.com
 description: >
-  My name is Zekai Wang (王泽铠). I am an M.S. student in the School of Computer Science at Wuhan University, advised by Prof. Weiwei Liu. My research primarily revolves around machine learning, specifically emphasizing trustworthy machine learning and multi-task learning.
+  My name is Zekai Wang (王泽铠). I am a Ph.D. student at MIT EECS. My research primarily revolves around machine learning, specifically emphasizing trustworthy machine learning and multi-task learning.
 
 # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
