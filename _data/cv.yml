@@ -27,21 +27,22 @@
       institution: Snowflake, US
       year: 2025.5 - 2025.8
       description:
-        - Research topic: Automatic prompt optimization
+        Working on Automatic prompt optimization
+        # - <strong>Research topic:</strong> Automatic prompt optimization
         # - Work with <a href="https://www.canwenxu.net">Canwen Xu</a>, <a href="https://yaozhewei.github.io">Zhewei Yao</a> and <a href="https://scholar.google.com/citations?user=SB3_eb0AAAAJ">Yuxiong He</a>
     
     - title: Research Intern
       institution: Sea AI Lab, Singapore
       year: 2022.9 - 2023.6
       description:
-        - Research topic: Trustworthy machine learning
+        Working on Trustworthy machine learning
         # - Work with <a href="https://p2333.github.io">Tianyu Pang</a>, <a href="https://duchao0726.github.io">Chao Du</a> and <a href="https://linmin.me">Min Lin</a> 
 
     - title: International Exchange
       institution: University of California, Berkeley (UCB), US
       year: 2020.1 - 2020.7
       description:
-        - Research topic: Machine learning for micro-electromechanical systems design
+        Working on Machine learning for micro-electromechanical systems design
         # - Work with <a href="https://scholar.google.com/citations?user=vYbZdzIAAAAJ">Ruiqi Guo</a> and <a href="https://me.berkeley.edu/people/liwei-lin">Liwei Lin</a>
 
     - title: Visiting Student
@@ -55,25 +56,25 @@
   contents:
     - year: 2024
       items: 
-        - "Outstanding Graduate, School of Computer Science &#38; Wuhan University"
+        "Outstanding Graduate, School of Computer Science &#38; Wuhan University"
     - year: 2023
       items: 
-        - China National Scholarship
+        China National Scholarship
     - year: 2023
       items: 
-        - Academic Excellence Scholarship, First Class, Wuhan University
+        Academic Excellence Scholarship, First Class, Wuhan University
     - year: 2023
       items: 
-        - Outstanding Graduate Student, Wuhan University
+        Outstanding Graduate Student, Wuhan University
     - year: 2022, 2024
       items: 
-        - Academic Innovation Scholarship, Wuhan University
+        Academic Innovation Scholarship, Wuhan University
     - year: 2020
       items: 
-        - "&quot;Daoyu Liu&quot; University President Scholarship, Wuhan University"
+        "&quot;Daoyu Liu&quot; University President Scholarship, Wuhan University"
     - year: 2018 - 2020
       items: 
-        - "Scholarship of Wuhan University &#38; Advanced Individual"
+        "Scholarship of Wuhan University &#38; Advanced Individual"
 
 
 - title: Academic Services
