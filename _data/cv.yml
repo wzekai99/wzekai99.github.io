@@ -23,19 +23,26 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Student Researcher
+    - title: Research Intern
+      institution: Snowflake, US
+      year: 2025.5 - 2025.8
+      description:
+        - <strong>Research topic:</strong> Automatic prompt optimization
+        - <strong>Work with </strong><a href="https://www.canwenxu.net">Canwen Xu</a>, <a href="https://yaozhewei.github.io">Zhewei Yao</a> and <a href="https://scholar.google.com/citations?user=SB3_eb0AAAAJ">Yuxiong He</a>
+    
+    - title: Research Intern
       institution: Sea AI Lab, Singapore
       year: 2022.9 - 2023.6
       description:
         - <strong>Research topic:</strong> Trustworthy machine learning
-        - <strong>Mentor:</strong> Dr. <a href="https://p2333.github.io">Tianyu Pang</a>, Dr. <a href="https://duchao0726.github.io">Chao Du</a>, Dr. <a href="https://linmin.me">Min Lin</a> 
+        - <strong>Work with </strong><a href="https://p2333.github.io">Tianyu Pang</a>, <a href="https://duchao0726.github.io">Chao Du</a> and <a href="https://linmin.me">Min Lin</a> 
 
     - title: International Exchange
       institution: University of California, Berkeley (UCB), US
       year: 2020.1 - 2020.7
       description:
         - <strong>Research topic:</strong> Machine learning for micro-electromechanical systems design
-        - <strong>Mentor:</strong> Dr. <a href="https://scholar.google.com/citations?user=vYbZdzIAAAAJ">Ruiqi Guo</a>, Prof. <a href="https://me.berkeley.edu/people/liwei-lin">Liwei Lin</a>
+        - <strong>Work with </strong><a href="https://scholar.google.com/citations?user=vYbZdzIAAAAJ">Ruiqi Guo</a> and <a href="https://me.berkeley.edu/people/liwei-lin">Liwei Lin</a>
 
     - title: Visiting Student
       institution: National University of Singapore (NUS), Singapore
@@ -75,11 +82,11 @@
   contents:
     - title: Conference Reviewer
       items: 
-        - "Advances in Neural Information Processing Systems (NeurIPS): 2022, 2023, 2024"
-        - "International Conference on Machine Learning (ICML): 2023, 2024"
-        - "International Conference on Learning Representations (ICLR): 2023, 2024, 2025"
-        - "AAAI Conference on Artificial Intelligence (AAAI): 2024"
-        - "International Joint Conference on Artificial Intelligence (IJCAI): 2024"
+        - "Advances in Neural Information Processing Systems (NeurIPS)"
+        - "International Conference on Machine Learning (ICML)"
+        - "International Conference on Learning Representations (ICLR)"
+        - "AAAI Conference on Artificial Intelligence (AAAI)"
+        - "International Joint Conference on Artificial Intelligence (IJCAI)"
 
     - title: Journal Reviewer
       items:
